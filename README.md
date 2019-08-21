@@ -62,3 +62,6 @@ The folder FishBotClasses can be open in Visual Studio Code, where a user can fi
  1. In Unity's engine, you can hit the "Play" button. Preferred aspect ratio is 16:9.
  2. Alternatively, in Unity, you can click on "File", then "Build Settings". Select your your platform of choice (win/mac/linux/xbox/etc etc), then click on "Build".
 
+
+# Features and User Stories
+See the *Features and User Stories* page in the Wiki section.
