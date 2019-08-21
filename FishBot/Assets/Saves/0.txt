@@ -1,0 +1,5 @@
+twame
+Volume int 76
+Brightness int 32
+Level int 1
+Score int 0

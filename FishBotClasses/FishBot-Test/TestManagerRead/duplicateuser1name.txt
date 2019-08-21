@@ -1,0 +1,6 @@
+user1
+op1 int 6
+op2 double 0.3
+op3 string op
+op4 string opp
+op5 string oppp

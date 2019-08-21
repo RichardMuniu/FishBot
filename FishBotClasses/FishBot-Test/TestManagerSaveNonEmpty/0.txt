@@ -1,0 +1,6 @@
+name1
+Volume int 100
+Brightness int 100
+Level int 1
+Score int 0
+name int 3

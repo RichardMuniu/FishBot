@@ -1,0 +1,5 @@
+oval_hero
+Volume int 56
+Brightness int 100
+Level int 1
+Score int 0
